@@ -1,6 +1,6 @@
 # Adventure Works 
 
-This is a visualization report created in Power BI where the dataset Maven Market is analysed. 
+This is a visualization report created in Power BI where the dataset Adventure Works is analysed. 
 Some of the report's features are described below:
 
 - Interactive dashboard, with capability of filtering and highlighting multiple graphs when one is selected
